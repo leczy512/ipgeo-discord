@@ -10,3 +10,4 @@ Clearly you must call the module within the code, You can find the package [here
 Or the [official website](https://snekfetch.js.org) and read the docs
 
 If u have problems u can dm me on twitter or discord ;)
+this is just a base, u can use other dependency 
